@@ -28,5 +28,8 @@ end
 
 def using_insert(array, ele)
   array.inert(ele)
-
 end
+
+def using_uniq(array)
+  array.uniq
+end 
